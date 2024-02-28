@@ -11,7 +11,9 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    background: url('images/bg.jpg');
+    background: url('images/bg.jpg')no-repeat;
+    background-position: center;
+    background-size: cover;
 
 }
 
